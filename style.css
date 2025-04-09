@@ -1,0 +1,200 @@
+.parent-container{
+display: contents;
+flex-direction: column;
+
+}
+.rasi-offers{
+    color: white;
+    background-color: rgba(91, 156, 54, 0.966);
+    width: 100%;
+    text-align: center;
+    height: 5vh;
+}
+.nav-bar nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 8%;
+    justify-content: center;
+}
+.rasi-prints{
+     display: flex;
+     gap: 25%;
+}
+.background-image{
+    background-image:url(Images/pillow.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 850px;
+    
+}
+.overlay-text{
+    text-align: center;
+    color: white;
+    height: auto;
+}
+.screen-printing{
+    text-align: center;
+    font-size: 26px;
+}
+.couch{
+display: flex;
+gap: 8%;
+justify-content: center;
+}
+.Timeless-artistry{
+flex-direction: column;
+
+}
+.couch-image{
+    width: 400px;
+}
+.printing-techniques{
+    text-align: center;
+}
+.diverse-range{
+    text-align: center;
+}
+.icons{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+}
+.images{
+    display: flex;
+    gap: 2%;
+    justify-items: center;
+    margin-left: 300px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+}
+.footer-container{
+    background-color: rgb(34, 35, 49);
+}
+.footer-content{
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    background-color: rgb(34, 35, 49);
+    color: white;
+    height: 45vh;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+}
+#copyright{
+    text-align: center;
+    color: white;
+}
+.accounts ul li{
+    list-style-type: none;
+}
+.sitemap ul li{
+    list-style-type: none;
+}
+#client-praise{
+    text-align: center;
+}
+#discover{
+    text-align: center;
+}
+.star{
+    color: rgba(87, 150, 87, 0.836);
+    margin: 5px;
+    font-size: 50px;
+}
+#best-works{
+    text-align: center;
+    font-size: 45px;
+    
+}
+#explore{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(122, 117, 117);
+}
+#reach-out{
+      font-size: 45px;
+}
+#questions{
+    font-size: 24px;
+    color: rgb(119, 117, 117);
+}
+.display-images{
+    display: flex;
+ justify-content: center;
+ gap: 3%;
+}
+#clothes{
+    width: 500px;
+    border-radius: 20px;
+}
+
+#bed{
+    width: 450px;
+    border-radius: 20px;
+}
+#girl{
+    width: 500px;
+    border-radius: 20px;
+}
+.hero-image{
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 800px;
+}
+#lady{
+    border-radius: 20px;
+}
+.reach-out{
+    text-align: center;
+}
+.contact-info{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: white;
+    margin-bottom: 40px;
+    
+}
+.contact-us{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.map{
+    background-image:url(Images/map.png) ;
+    border-radius: 20px;
+    height: 80vh;
+    padding: 20px 20px 20px 20px;
+    width: 90%;
+    justify-content: center;
+   
+}
+.high-quality{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+.small-couch{
+    border-radius: 20px;
+    width: 600px;
+}
+#exceptional-service{
+    color: rgb(134, 127, 127);
+    font-size: 24px;
+}
+#partnership{
+    color: rgb(134, 127, 127);
+    font-size: 24px;
+}
